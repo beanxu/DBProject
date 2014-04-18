@@ -1,4 +1,11 @@
-###Library Database System Based on Python, wxPython and SQLite
+#DBProjct: Library Database System
+
+##Description
+
+This is a Library Database System Based on Python, wxPython and SQLite
+
+##Instructions
+
 This is a simple library database system made by Ketian XU.
 
 To run this program, you'd better make sure that you have Python 2.7 and wxPython 3.0.0.
